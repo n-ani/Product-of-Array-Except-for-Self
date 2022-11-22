@@ -7,4 +7,4 @@ for i in range(len(arr)):
             s=s*arr[j]
     arr1.append(s)
     s=1
-print("Input : ",arr,"==>","Output : ",arr1)
+print("Input : ",arr,"\nOutput : ",arr1)
